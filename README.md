@@ -1,6 +1,9 @@
 <h1 align="center">Profiles Dev</h1>
 Application created as an example for a post I made using styled-components.
 
+## Screenshot :iphone:
+<img src="screenshot/myImg.jpg">
+
 ## Technology
 - **React Native** - A lib that provides a way to create native apps for Android and iOS.
 <a href="https://facebook.github.io/react-native/"><strong>about</strong></a> 

@@ -9,7 +9,7 @@ export const Container = styled.View`
 export const Box = styled.View`
   flex-direction: column;
   align-items: center;
-  margin-top: 50px;
+  margin-top: 20px;
 `;
 
 export const Avatar = styled(Image)`
