@@ -14,7 +14,6 @@
     "@react-navigation/bottom-tabs": "^5.0.0-alpha.39",
     "react": "16.9.0",
     "react-native": "0.61.5",
-    "react-native-emoji": "^1.8.0",
     "react-native-gesture-handler": "^1.5.3",
     "react-native-reanimated": "^1.7.0",
     "react-native-safe-area-context": "^0.6.4",

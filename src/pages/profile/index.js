@@ -61,7 +61,8 @@ export default function Profile() {
       <Bio>
         <CommentsUser>
           <CommentsText>
-            Vamos lá, estou começando agora e quiser me seguir no github!
+            Come on, I'm starting to write now, you can follow me on github, if
+            you want.
           </CommentsText>
         </CommentsUser>
       </Bio>

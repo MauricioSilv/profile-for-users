@@ -5,12 +5,13 @@ import {Container, TextInfo} from './styles';
 export default function Home() {
   return (
     <Container>
-      <Icon />
-      <TextInfo>Essa pagina ainda não foi concluída</TextInfo>
+      <Icon name="alert-triangle" size={120} color="rgba(242,201,76,0.5)" />
+      <TextInfo>This Home page has not yet been created.</TextInfo>
     </Container>
   );
 }
 
 Home.navigationOptions = {
   tabBarIcon: ({tintColor}) => <Icon name="home" size={25} color={tintColor} />,
+  title: 'teste',
 };

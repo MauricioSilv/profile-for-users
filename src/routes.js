@@ -15,7 +15,7 @@ import Search from './pages/search';
 
 const Routes = createStackNavigator(
   {
-    MyProfile: createBottomTabNavigator(
+    Profiles: createBottomTabNavigator(
       {
         Home,
         Search,
@@ -37,6 +37,8 @@ const Routes = createStackNavigator(
   },
   {
     defaultNavigationOptions: ({navigation}) => ({
+      title: 'Profile',
+      headerTransparent: true,
       headerTitleAlign: 'center',
       headerTitleStyle: {
         fontWeight: '900',
