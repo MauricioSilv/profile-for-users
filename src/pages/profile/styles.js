@@ -6,7 +6,7 @@ export const Container = styled.View`
   background-color: #fff;
 `;
 
-export const Box1 = styled.View`
+export const Box = styled.View`
   flex-direction: column;
   align-items: center;
   margin-top: 50px;

@@ -3,7 +3,7 @@ import Icon from 'react-native-vector-icons/Feather';
 
 import {
   Container,
-  Box1,
+  Box,
   Avatar,
   Name,
   NameText,
@@ -28,7 +28,7 @@ import {
 export default function Profile() {
   return (
     <Container>
-      <Box1>
+      <Box>
         <Avatar
           source={{
             uri: 'https://api.adorable.io/avatars/120/abott@adorable.png',
@@ -43,7 +43,7 @@ export default function Profile() {
             Hello! I'am a developer web and mobile.
           </DescriptionText>
         </Description>
-      </Box1>
+      </Box>
       <Info>
         <Following>
           <FollowingValue>37</FollowingValue>
