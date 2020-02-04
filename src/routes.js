@@ -9,7 +9,7 @@ import HeaderRight from './components/HeaderRight';
 
 import Home from './pages/Home';
 import Profile from './pages/profile';
-import newPost from './pages/newPost';
+import NewPost from './pages/newPost';
 import Message from './pages/message';
 import Search from './pages/search';
 
@@ -19,7 +19,7 @@ const Routes = createStackNavigator(
       {
         Home,
         Search,
-        newPost,
+        NewPost,
         Message,
         Profile,
       },
